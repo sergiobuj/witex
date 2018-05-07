@@ -29,6 +29,7 @@ defmodule Witex.Mixfile do
   defp deps do
     [
       {:exjsx, "~> 3.1.0"},
+      {:httplacebo, "~> 0.0.1", only: :test},
       {:httpoison, "~> 0.6"},
     ]
   end

@@ -1,6 +1,7 @@
 %{"certifi": {:hex, :certifi, "0.4.0"},
   "exjsx": {:hex, :exjsx, "3.1.0"},
   "hackney": {:hex, :hackney, "1.5.7"},
+  "httplacebo": {:hex, :httplacebo, "0.0.1"},
   "httpoison": {:hex, :httpoison, "0.8.2"},
   "idna": {:hex, :idna, "1.2.0"},
   "jsx": {:hex, :jsx, "2.4.0"},
